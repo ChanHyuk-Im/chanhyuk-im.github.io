@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Some information about me!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+LinkedIn: https://www.linkedin.com/in/%EC%B0%AC%ED%98%81-%EC%9E%84-398a15125/
+RocketPunch: https://www.rocketpunch.com/@imcanhyeog
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto: imchrg1@gmail.com)
