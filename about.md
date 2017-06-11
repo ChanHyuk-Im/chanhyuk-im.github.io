@@ -14,4 +14,4 @@ RocketPunch: https://www.rocketpunch.com/@imcanhyeog
 
 ### Contact me
 
-[email@domain.com](mailto: imchrg1@gmail.com)
+[imchrg1@gmail.com]
