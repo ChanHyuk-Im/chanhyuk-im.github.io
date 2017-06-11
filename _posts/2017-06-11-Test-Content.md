@@ -3,7 +3,7 @@ layout: post
 title: Test Content
 ---
 
-Hello, this is 'test page' of my first content.
+Hello, this is `test page` of my first content.
 
 # This is h1
 ## This is h2
