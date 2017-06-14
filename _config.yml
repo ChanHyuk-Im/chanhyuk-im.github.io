@@ -9,7 +9,7 @@ name: chanhyuk-im
 description: Research Engineer & Software Developer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: {{ site.baseurl }}/images/IM-logo.png
+avatar: https://raw.githubusercontent.com/ChanHyuk-Im/chanhyuk-im.github.io/master/images/IM-logo.png
 
 #
 # Flags below are optional
