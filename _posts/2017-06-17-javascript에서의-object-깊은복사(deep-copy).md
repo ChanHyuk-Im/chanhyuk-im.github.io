@@ -3,10 +3,6 @@ layout: post
 title: javascript에서의 object 깊은복사(deep copy)
 ---
 
-javascript에서의 object 깊은복사(deep copy)
-
-# javascript에서의 object 깊은복사(deep copy)
-
 javascript에서의 `=` 연산자를 사용하면 기본적으로 object는 복사되지 않고 참조로 값이 할당된다.
 
 예를들면,
